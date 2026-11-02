@@ -88,3 +88,5 @@ Das Projekt ist in eigenständige Module unterteilt, die flexibel oder über den
 ├── Pictures/
 │   └── script-execution-log.png # Terminal Log & Ausführungs-Asset
 └── README.md                    # Projektdokumentation
+
+(Hinweis: Der Google Service Account (client_secret.json) sowie persönliche API-Zugangsdaten verbleiben aus Sicherheits- und Datenschutzgründen in der lokalen Umgebung und sind über .gitignore vom Public Upload ausgeschlossen).
